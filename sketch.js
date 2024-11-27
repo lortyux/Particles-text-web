@@ -1,5 +1,5 @@
 let font;
-let tSize = 250; // size of text
+let tSize = 150; // size of text
 let tposX, tposY;
 let pointCount = 0.8; // 0-1; 0 = few particles, 1 = more particles
 
